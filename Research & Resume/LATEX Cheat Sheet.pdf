@@ -1,0 +1,6903 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 15
+/Kids [ 4 0 R 12 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R 30 0 R 33 0 R 36 0 R 39 0 R 42 0 R 45 0 R 48 0 R 51 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+/gRLs2 <<
+/ca 0.95
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5734
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.968627 .980392 .988235 rg
+n 0 0 595.2756 841.8898 re f*
+.294118 .443137 .541176 rg
+n 0 405 595.2756 436.8898 re f*
+.086275 .552941 .533333 rg
+n 0 405 9 436.8898 re f*
+.913725 .705882 .298039 rg
+n
+554.2756 778.8898 m
+554.2756 782.7558 551.1416 785.8898 547.2756 785.8898 c
+543.4096 785.8898 540.2756 782.7558 540.2756 778.8898 c
+540.2756 775.0238 543.4096 771.8898 547.2756 771.8898 c
+551.1416 771.8898 554.2756 775.0238 554.2756 778.8898 c
+f*
+.156863 .262745 .368627 rg
+n
+417.2756 548 m
+523.2756 548 l
+529.9092 548 535.2756 553.3664 535.2756 560 c
+535.2756 676 l
+535.2756 682.6336 529.9092 688 523.2756 688 c
+417.2756 688 l
+410.642 688 405.2756 682.6336 405.2756 676 c
+405.2756 560 l
+405.2756 553.3664 410.642 548 417.2756 548 c
+h
+f*
+.47451 .564706 .654902 RG
+.8 w
+n 424.2756 652 m 513.2756 652 l S
+n 424.2756 634 m 499.2756 634 l S
+n 424.2756 616 m 513.2756 616 l S
+n 424.2756 598 m 499.2756 598 l S
+n 424.2756 580 m 513.2756 580 l S
+.086275 .552941 .533333 rg
+n
+428.2756 564 m
+475.2756 564 l
+477.4868 564 479.2756 565.7888 479.2756 568 c
+479.2756 576 l
+479.2756 578.2112 477.4868 580 475.2756 580 c
+428.2756 580 l
+426.0644 580 424.2756 578.2112 424.2756 576 c
+424.2756 568 l
+424.2756 565.7888 426.0644 564 428.2756 564 c
+h
+f*
+1 1 1 rg
+BT /F2 7 Tf 8.4 TL ET
+BT 1 0 0 1 432.2756 569 Tm (main.tex) Tj T* ET
+1 1 1 rg
+BT /F2 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 48 766.8898 Tm (STUDENT WORKSHOP FIELD GUIDE  |  29 SEPTEMBER 2026) Tj T* ET
+BT /F2 31 Tf 37.2 TL ET
+BT 1 0 0 1 48 698.8898 Tm (Overleaf & LaTeX) Tj T* ET
+BT /F2 19 Tf 22.8 TL ET
+BT 1 0 0 1 48 667.8898 Tm (for Research Papers and Resumes) Tj T* ET
+.847059 .894118 .937255 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 48 633.8898 Tm (A practical guide to writing, compiling, checking, and sharing your work.) Tj T* ET
+.905882 .956863 .94902 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 596.8898 Tm (LEARN BY BUILDING) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F2 17 Tf 20.4 TL ET
+BT 1 0 0 1 48 361 Tm (From source code to a checked PDF) Tj T* ET
+.360784 .431373 .509804 rg
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 48 341 Tm (Use the same loop for an IEEE paper, a technical report, or a one-page resume.) Tj T* ET
+1 1 1 rg
+.835294 .878431 .909804 RG
+n
+53 256 m
+285.6378 256 l
+288.9546 256 291.6378 258.6832 291.6378 262 c
+291.6378 315 l
+291.6378 318.3168 288.9546 321 285.6378 321 c
+53 321 l
+49.6832 321 47 318.3168 47 315 c
+47 262 l
+47 258.6832 49.6832 256 53 256 c
+h
+B*
+.086275 .552941 .533333 rg
+n 47 256 4 65 re f*
+.294118 .443137 .541176 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 60 303 Tm (RESEARCH PAPER) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F1 7.7 Tf 9.24 TL ET
+BT 1 0 0 1 60 287 Tm (Organize a question, compare evidence, explain) Tj T* ET
+BT 1 0 0 1 60 276 Tm (a method, report results.) Tj T* ET
+1 1 1 rg
+.835294 .878431 .909804 RG
+n
+309.6378 256 m
+542.2756 256 l
+545.5924 256 548.2756 258.6832 548.2756 262 c
+548.2756 315 l
+548.2756 318.3168 545.5924 321 542.2756 321 c
+309.6378 321 l
+306.321 321 303.6378 318.3168 303.6378 315 c
+303.6378 262 l
+303.6378 258.6832 306.321 256 309.6378 256 c
+h
+B*
+.086275 .552941 .533333 rg
+n 303.6378 256 4 65 re f*
+.294118 .443137 .541176 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 316.6378 303 Tm (OVERLEAF WORKFLOW) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F1 7.7 Tf 9.24 TL ET
+BT 1 0 0 1 316.6378 287 Tm (Create a project, edit .tex files, recompile,) Tj T* ET
+BT 1 0 0 1 316.6378 276 Tm (read the log, export the PDF.) Tj T* ET
+1 1 1 rg
+.835294 .878431 .909804 RG
+n
+53 180 m
+285.6378 180 l
+288.9546 180 291.6378 182.6832 291.6378 186 c
+291.6378 239 l
+291.6378 242.3168 288.9546 245 285.6378 245 c
+53 245 l
+49.6832 245 47 242.3168 47 239 c
+47 186 l
+47 182.6832 49.6832 180 53 180 c
+h
+B*
+.086275 .552941 .533333 rg
+n 47 180 4 65 re f*
+.294118 .443137 .541176 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 60 227 Tm (LATEX COMMANDS) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F1 7.7 Tf 9.24 TL ET
+BT 1 0 0 1 60 211 Tm (Structure sections, equations, figures, tables,) Tj T* ET
+BT 1 0 0 1 60 200 Tm (citations, and links.) Tj T* ET
+1 1 1 rg
+.835294 .878431 .909804 RG
+n
+309.6378 180 m
+542.2756 180 l
+545.5924 180 548.2756 182.6832 548.2756 186 c
+548.2756 239 l
+548.2756 242.3168 545.5924 245 542.2756 245 c
+309.6378 245 l
+306.321 245 303.6378 242.3168 303.6378 239 c
+303.6378 186 l
+303.6378 182.6832 306.321 180 309.6378 180 c
+h
+B*
+.086275 .552941 .533333 rg
+n 303.6378 180 4 65 re f*
+.294118 .443137 .541176 rg
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 316.6378 227 Tm (RESUME) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F1 7.7 Tf 9.24 TL ET
+BT 1 0 0 1 316.6378 211 Tm (Turn verified details into concise bullets and) Tj T* ET
+BT 1 0 0 1 316.6378 200 Tm (a clean, editable layout.) Tj T* ET
+.294118 .443137 .541176 rg
+n
+53 73 m
+542.2756 73 l
+545.5924 73 548.2756 75.6832 548.2756 79 c
+548.2756 111 l
+548.2756 114.3168 545.5924 117 542.2756 117 c
+53 117 l
+49.6832 117 47 114.3168 47 111 c
+47 79 l
+47 75.6832 49.6832 73 53 73 c
+h
+f*
+1 1 1 rg
+BT /F2 8.4 Tf 10.08 TL ET
+BT 1 0 0 1 61 99 Tm (THE WORKING LOOP) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 61 83 Tm (Write source  >  Recompile  >  Read the PDF  >  Fix and verify) Tj T* ET
+.360784 .431373 .509804 rg
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 48 Tm (Prepared for an engineering student workshop | Examples use replaceable placeholders) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+q
+1 1 1 rg
+/gRLs2 gs
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 47.62205 454.6205 Tm
+(Prepared by\072 RIDA ARSHAD) Tj
+T*
+ET
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 47.62205 440.6205 Tm
+(3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 9019
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (2) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (The workspace and the working loop) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (LaTeX is the source language; Overleaf is the browser workspace that compiles it into a PDF.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 47 659.3898 cm
+q
+.933333 .956863 .972549 rg
+n 0 60.4 250.6378 -60.4 re f*
+.905882 .956863 .94902 rg
+n 250.6378 60.4 250.6378 -60.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 9 cm
+q
+BT 1 0 0 1 0 34.2 Tm 10.6 TL /F2 8.2 Tf .141176 .203922 .282353 rg (LaTeX) Tj /F1 8.2 Tf  T* -0.046867 Tw (A typesetting system. You write structured source in a plain-text) Tj T* 0 Tw /F3 8.2 Tf (.tex) Tj /F1 8.2 Tf ( file; commands describe headings, math, figures, and) Tj T* (references.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.6378 19.6 cm
+q
+BT 1 0 0 1 0 23.6 Tm 10.6 TL /F2 8.2 Tf .141176 .203922 .282353 rg (Overleaf) Tj /F1 8.2 Tf  T* (An online editor for LaTeX projects. It stores project files, runs) Tj T* (the compiler, shows the PDF, and supports collaboration.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.5 w
+n 0 60.4 m 501.2756 60.4 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 60.4 l S
+n 501.2756 0 m 501.2756 60.4 l S
+n 250.6378 0 m 250.6378 60.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 651.3898 cm
+Q
+q
+1 0 0 1 53 630.8898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (The loop you will repeat) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 574.8898 cm
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+4 8 m
+87.45512 8 l
+89.66632 8 91.45512 9.7888 91.45512 12 c
+91.45512 38 l
+91.45512 40.2112 89.66632 42 87.45512 42 c
+4 42 l
+1.7888 42 0 40.2112 0 38 c
+0 12 l
+0 9.7888 1.7888 8 4 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 25.31916 21 Tm (Project files) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 92.45512 25 m 97.45512 25 l S
+n 97.45512 25 m 94.45512 28 l S
+n 97.45512 25 m 94.45512 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+103.4551 8 m
+186.9102 8 l
+189.1214 8 190.9102 9.7888 190.9102 12 c
+190.9102 38 l
+190.9102 40.2112 189.1214 42 186.9102 42 c
+103.4551 42 l
+101.2439 42 99.45512 40.2112 99.45512 38 c
+99.45512 12 l
+99.45512 9.7888 101.2439 8 103.4551 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 122.7763 21 Tm (Edit main.tex) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 191.9102 25 m 196.9102 25 l S
+n 196.9102 25 m 193.9102 28 l S
+n 196.9102 25 m 193.9102 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+202.9102 8 m
+286.3654 8 l
+288.5766 8 290.3654 9.7888 290.3654 12 c
+290.3654 38 l
+290.3654 40.2112 288.5766 42 286.3654 42 c
+202.9102 42 l
+200.699 42 198.9102 40.2112 198.9102 38 c
+198.9102 12 l
+198.9102 9.7888 200.699 8 202.9102 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 226.4326 21 Tm (Recompile) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 291.3654 25 m 296.3654 25 l S
+n 296.3654 25 m 293.3654 28 l S
+n 296.3654 25 m 293.3654 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+302.3654 8 m
+385.8205 8 l
+388.0317 8 389.8205 9.7888 389.8205 12 c
+389.8205 38 l
+389.8205 40.2112 388.0317 42 385.8205 42 c
+302.3654 42 l
+300.1542 42 298.3654 40.2112 298.3654 38 c
+298.3654 12 l
+298.3654 9.7888 300.1542 8 302.3654 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 317.5861 21 Tm (Read PDF + log) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 390.8205 25 m 395.8205 25 l S
+n 395.8205 25 m 392.8205 28 l S
+n 395.8205 25 m 392.8205 22 l S
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+401.8205 8 m
+485.2756 8 l
+487.4868 8 489.2756 9.7888 489.2756 12 c
+489.2756 38 l
+489.2756 40.2112 487.4868 42 485.2756 42 c
+401.8205 42 l
+399.6093 42 397.8205 40.2112 397.8205 38 c
+397.8205 12 l
+397.8205 9.7888 399.6093 8 401.8205 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 424.342 21 Tm (Fix / export) Tj T* ET
+Q
+q
+1 0 0 1 53 571.8898 cm
+Q
+q
+1 0 0 1 53 420.9898 cm
+q
+.294118 .443137 .541176 rg
+n 0 150.9 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 111.4 501.2756 -20.2 re f*
+.933333 .956863 .972549 rg
+n 0 60.8 501.2756 -30.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 136.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89 136.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (What to do in Overleaf) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 116.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Start) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89 116.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Create a project from the official target template, or start blank for practice. Give it a clear name.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 96.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Set up) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89 96.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Keep the main .tex file at the project root. Add a .bib file for sources; make a figures/ folder for images.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 76 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Compile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89 65.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 12.4 Tm /F1 8 Tf 10.2 TL (Select Recompile. Check the PDF preview after changes; compilation can still report errors even when a preview) Tj T* (appears.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Debug) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89 35.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 12.4 Tm /F1 8 Tf 10.2 TL (Open Logs and output files. Start with the first red error, then inspect the cited line and nearby braces or special) Tj T* (characters.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 15.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8 Tf 10.2 TL (Share / export) Tj T* ET
+Q
+Q
+q
+1 0 0 1 89 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 12.4 Tm /F1 8 Tf 10.2 TL (Use Share to choose access. Download the PDF for reading or the source ZIP to keep an editable copy. History) Tj T* (can help recover earlier work.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 150.9 m 501.2756 150.9 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 150.9 l S
+n 501.2756 0 m 501.2756 150.9 l S
+n 0 131.6 m 501.2756 131.6 l S
+n 0 111.4 m 501.2756 111.4 l S
+n 0 91.2 m 501.2756 91.2 l S
+n 0 60.8 m 501.2756 60.8 l S
+n 0 30.4 m 501.2756 30.4 l S
+n 83 0 m 83 150.9 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 413.9898 cm
+Q
+q
+1 0 0 1 53 399.5898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (A simple project tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 323.3898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 68.2 l
+489.2756 70.964 487.0396 73.2 484.2756 73.2 c
+5 73.2 l
+2.236 73.2 0 70.964 0 68.2 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 9 56.8 Tm (main.tex) Tj T* ET
+BT 1 0 0 1 9 47.6 Tm (references.bib) Tj T* ET
+BT 1 0 0 1 9 38.4 Tm (figures/) Tj T* ET
+BT 1 0 0 1 9 29.2 Tm (  system.png) Tj T* ET
+BT 1 0 0 1 9 20 Tm (sections/) Tj T* ET
+BT 1 0 0 1 9 10.8 Tm (  introduction.tex) Tj T* ET
+Q
+q
+1 0 0 1 53 317.3898 cm
+Q
+q
+1 0 0 1 53 269.1898 cm
+q
+.905882 .956863 .94902 rg
+n 0 48.2 501.2756 -48.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 25.4 Tm /F1 8.8 Tf 11.4 TL (The commands in this guide are typed in the .tex editor; they are not terminal commands. Overleaf runs the compiler when) Tj T* (you select Recompile. Button names and plan features can change. Choose the main document, compile often, read the) Tj T* (log, and save an exported copy. [1-6]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 48.2 m 501.2756 48.2 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 48.2 l S
+n 501.2756 0 m 501.2756 48.2 l S
+3 w
+n 0 0 m 0 48.2 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 8395
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (3) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (The basic LaTeX structure) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Every document has a preamble, a body, and one ending command.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 545.3898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 169.4 l
+489.2756 172.164 487.0396 174.4 484.2756 174.4 c
+5 174.4 l
+2.236 174.4 0 172.164 0 169.4 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 9 158 Tm (\\documentclass{article}       % document type) Tj T* ET
+BT 1 0 0 1 9 148.8 Tm (\\usepackage{graphicx}          % images) Tj T* ET
+BT 1 0 0 1 9 139.6 Tm (\\usepackage{amsmath}           % equations) Tj T* ET
+BT 1 0 0 1 9 130.4 Tm (\\title{My Technical Report}) Tj T* ET
+BT 1 0 0 1 9 121.2 Tm (\\author{Your Name}) Tj T* ET
+BT 1 0 0 1 9 112 Tm (\\date{}) Tj T* ET
+BT 1 0 0 1 9 102.8 Tm  T* ET
+BT 1 0 0 1 9 93.6 Tm (\\begin{document}) Tj T* ET
+BT 1 0 0 1 9 84.4 Tm (\\maketitle) Tj T* ET
+BT 1 0 0 1 9 75.2 Tm (\\begin{abstract}) Tj T* ET
+BT 1 0 0 1 9 66 Tm (State the problem, method, and main result briefly.) Tj T* ET
+BT 1 0 0 1 9 56.8 Tm (\\end{abstract}) Tj T* ET
+BT 1 0 0 1 9 47.6 Tm (\\section{Introduction}) Tj T* ET
+BT 1 0 0 1 9 38.4 Tm (Start writing here.) Tj T* ET
+BT 1 0 0 1 9 29.2 Tm (\\subsection{Motivation}) Tj T* ET
+BT 1 0 0 1 9 20 Tm (Explain why the problem matters.) Tj T* ET
+BT 1 0 0 1 9 10.8 Tm (\\end{document}) Tj T* ET
+Q
+q
+1 0 0 1 53 538.3898 cm
+Q
+q
+1 0 0 1 53 517.8898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Core commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 361.1898 cm
+q
+.294118 .443137 .541176 rg
+n 0 153.7 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 115.2 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 76.8 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 38.4 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 139.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 139.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\documentclass{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Select a document class or template.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\usepackage{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Load an optional feature in the preamble.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\begin{...} / \\end{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Open and close a document environment; names must match.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\section{...}, \\subsection{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Create structured headings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\textbf{...}, \\textit{...}, \\emph{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Bold, italic, or emphasize a short phrase.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\label{key}, \\ref{key}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Create and use an internal cross-reference.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\input{sections/file}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 172 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Insert source from another .tex file.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 153.7 m 501.2756 153.7 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 153.7 l S
+n 501.2756 0 m 501.2756 153.7 l S
+n 0 134.4 m 501.2756 134.4 l S
+n 0 115.2 m 501.2756 115.2 l S
+n 0 96 m 501.2756 96 l S
+n 0 76.8 m 501.2756 76.8 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 166 0 m 166 153.7 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 354.1898 cm
+Q
+q
+1 0 0 1 53 333.6898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Text and punctuation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 253.7898 cm
+q
+.294118 .443137 .541176 rg
+n 0 76.9 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 38.4 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (In source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Prints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+BT 1 0 0 1 0 1.8 Tm 9.2 TL /F1 7.4 Tf .141176 .203922 .282353 rg (\\% \\_ \\) Tj (& \\$ \\#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 43.4 cm
+q
+BT 1 0 0 1 0 1.8 Tm 9.2 TL /F1 7.4 Tf .141176 .203922 .282353 rg (% _ & $ #) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Escape reserved characters in normal text.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\texttt{main.tex}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (monospace text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Show a filename or short command in prose.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (blank line) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (new paragraph) Tj T* ET
+Q
+Q
+q
+1 0 0 1 231 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Use \\texttt{\\\\} only when a forced line break is needed.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 76.9 m 501.2756 76.9 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 76.9 l S
+n 501.2756 0 m 501.2756 76.9 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 133 0 m 133 76.9 l S
+n 225 0 m 225 76.9 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 247.7898 cm
+Q
+q
+1 0 0 1 53 210.9898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (Put packages and document settings before \\begin{document}. Put the paper's content between \\begin{document} and) Tj T* (\\end{document}. A blank line starts a paragraph; \\ is not a paragraph command.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 6691
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (4) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (V1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (From LaTeX source to PDF page) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (The left panel is what you type. The right panel shows the kind of page layout those commands create.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 666.7898 cm
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+4 8 m
+153.7585 8 l
+155.9697 8 157.7585 9.7888 157.7585 12 c
+157.7585 38 l
+157.7585 40.2112 155.9697 42 153.7585 42 c
+4 42 l
+1.7888 42 0 40.2112 0 38 c
+0 12 l
+0 9.7888 1.7888 8 4 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 43.46967 21 Tm (Write the .tex source) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 158.7585 25 m 163.7585 25 l S
+n 163.7585 25 m 160.7585 28 l S
+n 163.7585 25 m 160.7585 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+169.7585 8 m
+319.5171 8 l
+321.7283 8 323.5171 9.7888 323.5171 12 c
+323.5171 38 l
+323.5171 40.2112 321.7283 42 319.5171 42 c
+169.7585 42 l
+167.5473 42 165.7585 40.2112 165.7585 38 c
+165.7585 12 l
+165.7585 9.7888 167.5473 8 169.7585 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 206.8234 21 Tm (Recompile in Overleaf) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 324.5171 25 m 329.5171 25 l S
+n 329.5171 25 m 326.5171 28 l S
+n 329.5171 25 m 326.5171 22 l S
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+335.5171 8 m
+485.2756 8 l
+487.4868 8 489.2756 9.7888 489.2756 12 c
+489.2756 38 l
+489.2756 40.2112 487.4868 42 485.2756 42 c
+335.5171 42 l
+333.3059 42 331.5171 40.2112 331.5171 38 c
+331.5171 12 l
+331.5171 9.7888 333.3059 8 335.5171 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 386.9927 21 Tm (Read the PDF) Tj T* ET
+Q
+q
+1 0 0 1 53 661.7898 cm
+Q
+q
+1 0 0 1 53 508.4898 cm
+q
+.294118 .443137 .541176 rg
+n 0 153.3 245.625 -17.3 re f*
+.086275 .552941 .533333 rg
+n 245.625 153.3 255.6506 -17.3 re f*
+.937255 .960784 .972549 rg
+n 0 136 245.625 -136 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 140 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (LATEX SOURCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.625 140 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (PAGE PREVIEW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.112 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+228.625 0 l
+231.389 0 233.625 2.236 233.625 5 c
+233.625 84.776 l
+233.625 87.54 231.389 89.776 228.625 89.776 c
+5 89.776 l
+2.236 89.776 0 87.54 0 84.776 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 7 75.376 Tm (\\section{Introduction}) Tj T* ET
+BT 1 0 0 1 7 65.904 Tm (A short paragraph introduces the problem.) Tj T* ET
+BT 1 0 0 1 7 56.432 Tm (\\subsection{Motivation}) Tj T* ET
+BT 1 0 0 1 7 46.96 Tm (Explain why the problem matters.) Tj T* ET
+BT 1 0 0 1 7 37.488 Tm (\\begin{itemize}) Tj T* ET
+BT 1 0 0 1 7 28.016 Tm (  \\item Define the need) Tj T* ET
+BT 1 0 0 1 7 18.544 Tm (  \\item State the objective) Tj T* ET
+BT 1 0 0 1 7 9.072 Tm (\\end{itemize}) Tj T* ET
+Q
+q
+1 0 0 1 251.625 5 cm
+1 1 1 rg
+.835294 .878431 .909804 RG
+.7 w
+n
+5 0 m
+238.6506 0 l
+241.4146 0 243.6506 2.236 243.6506 5 c
+243.6506 121 l
+243.6506 123.764 241.4146 126 238.6506 126 c
+5 126 l
+2.236 126 0 123.764 0 121 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.905882 .956863 .94902 rg
+n
+10 106 m
+233.6506 106 l
+235.309 106 236.6506 107.3416 236.6506 109 c
+236.6506 116 l
+236.6506 117.6584 235.309 119 233.6506 119 c
+10 119 l
+8.3416 119 7 117.6584 7 116 c
+7 109 l
+7 107.3416 8.3416 106 10 106 c
+h
+f*
+.086275 .552941 .533333 rg
+BT /F2 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 12 110 Tm (ILLUSTRATIVE PDF OUTPUT) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F2 9.2 Tf 11.04 TL ET
+BT 1 0 0 1 13 86 Tm (1  Introduction) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 13 73 Tm (A clear opening explains the problem and) Tj T* ET
+BT 1 0 0 1 13 63 Tm (why the reader should care.) Tj T* ET
+BT /F2 7.8 Tf 9.36 TL ET
+BT 1 0 0 1 13 47 Tm (1.1  Motivation) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 17 35 Tm (\177  Define the need) Tj T* ET
+BT 1 0 0 1 17 25 Tm (\177  State the objective) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.5 w
+n 0 153.3 m 501.2756 153.3 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 153.3 l S
+n 501.2756 0 m 501.2756 153.3 l S
+.45 w
+n 0 136 m 501.2756 136 l S
+n 245.625 0 m 245.625 153.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 500.4898 cm
+Q
+q
+1 0 0 1 53 479.9898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (How to read the preview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 438.8898 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 28.4 Tm /F1 9.7 Tf 12.7 TL (LaTeX turns commands into visual structure: section commands become numbered headings, blank lines) Tj T* (separate paragraphs, and list environments create aligned bullets. A PDF preview helps you check hierarchy,) Tj T* (spacing, and page flow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 428.8898 cm
+Q
+q
+1 0 0 1 53 392.0898 cm
+q
+.933333 .956863 .972549 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL -0.063534 Tw (These small page previews are illustrative drawings made for this guide. Overleaf's exact PDF appearance can vary with the) Tj T* 0 Tw (document class, fonts, packages, and compiler settings. Recompile your own source to see its actual output.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.294118 .443137 .541176 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 11006
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (5) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Plan the paper before you format it) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (A paper is an argument supported by evidence, not just a set of headings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 546.8898 cm
+q
+.294118 .443137 .541176 rg
+n 0 172.9 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 134.4 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 96 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 57.6 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 19.2 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 158.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Section) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 158.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (What belongs here) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 158.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Question to answer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 139.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Title + abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 139.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Topic, problem, method, result, contribution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 139.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Can a reader understand the paper quickly?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Context, problem statement, motivation, objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What problem are you solving, and why?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Related work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Prior methods, findings, limitations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What is already known, and what remains open?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Methodology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Data, system, tools, design, evaluation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Could another student follow what you did?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Measurements, figures, tables, observations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What did the experiment actually show?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Discussion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Meaning, comparison, limitations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (How should the results be interpreted?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Main takeaway and next steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What can the reader conclude?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 99 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Every cited source, in the required style) Tj T* ET
+Q
+Q
+q
+1 0 0 1 320 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Can each source be found and verified?) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 172.9 m 501.2756 172.9 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 172.9 l S
+n 501.2756 0 m 501.2756 172.9 l S
+n 0 153.6 m 501.2756 153.6 l S
+n 0 134.4 m 501.2756 134.4 l S
+n 0 115.2 m 501.2756 115.2 l S
+n 0 96 m 501.2756 96 l S
+n 0 76.8 m 501.2756 76.8 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 93 0 m 93 172.9 l S
+n 314 0 m 314 172.9 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 539.8898 cm
+Q
+q
+1 0 0 1 53 519.3898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (From topic to research gap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 463.3898 cm
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+4 8 m
+87.45512 8 l
+89.66632 8 91.45512 9.7888 91.45512 12 c
+91.45512 38 l
+91.45512 40.2112 89.66632 42 87.45512 42 c
+4 42 l
+1.7888 42 0 40.2112 0 38 c
+0 12 l
+0 9.7888 1.7888 8 4 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 36.12636 21 Tm (Topic) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 92.45512 25 m 97.45512 25 l S
+n 97.45512 25 m 94.45512 28 l S
+n 97.45512 25 m 94.45512 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+103.4551 8 m
+186.9102 8 l
+189.1214 8 190.9102 9.7888 190.9102 12 c
+190.9102 38 l
+190.9102 40.2112 189.1214 42 186.9102 42 c
+103.4551 42 l
+101.2439 42 99.45512 40.2112 99.45512 38 c
+99.45512 12 l
+99.45512 9.7888 101.2439 8 103.4551 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 133.1767 21 Tm (Search) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 191.9102 25 m 196.9102 25 l S
+n 196.9102 25 m 193.9102 28 l S
+n 196.9102 25 m 193.9102 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+202.9102 8 m
+286.3654 8 l
+288.5766 8 290.3654 9.7888 290.3654 12 c
+290.3654 38 l
+290.3654 40.2112 288.5766 42 286.3654 42 c
+202.9102 42 l
+200.699 42 198.9102 40.2112 198.9102 38 c
+198.9102 12 l
+198.9102 9.7888 200.699 8 202.9102 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 232.6318 21 Tm (Screen) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 291.3654 25 m 296.3654 25 l S
+n 296.3654 25 m 293.3654 28 l S
+n 296.3654 25 m 293.3654 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+302.3654 8 m
+385.8205 8 l
+388.0317 8 389.8205 9.7888 389.8205 12 c
+389.8205 38 l
+389.8205 40.2112 388.0317 42 385.8205 42 c
+302.3654 42 l
+300.1542 42 298.3654 40.2112 298.3654 38 c
+298.3654 12 l
+298.3654 9.7888 300.1542 8 302.3654 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 328.4905 21 Tm (Compare) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 390.8205 25 m 395.8205 25 l S
+n 395.8205 25 m 392.8205 28 l S
+n 395.8205 25 m 392.8205 22 l S
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+401.8205 8 m
+485.2756 8 l
+487.4868 8 489.2756 9.7888 489.2756 12 c
+489.2756 38 l
+489.2756 40.2112 487.4868 42 485.2756 42 c
+401.8205 42 l
+399.6093 42 397.8205 40.2112 397.8205 38 c
+397.8205 12 l
+397.8205 9.7888 399.6093 8 401.8205 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 417.4408 21 Tm (Gap + question) Tj T* ET
+Q
+q
+1 0 0 1 53 460.3898 cm
+Q
+q
+1 0 0 1 53 445.9898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (A useful comparison note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 404.4898 cm
+q
+.294118 .443137 .541176 rg
+n 0 38.5 501.2756 -19.3 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Paper / year) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109 24.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Method) Tj T* ET
+Q
+Q
+q
+1 0 0 1 225 24.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Finding) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339 24.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Limitation / relevance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Verified source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 109 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What was tested?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 225 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What did authors report?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 339 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (What is missing for your question?) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 38.5 m 501.2756 38.5 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 38.5 l S
+n 501.2756 0 m 501.2756 38.5 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 103 0 m 103 38.5 l S
+n 219 0 m 219 38.5 l S
+n 333 0 m 333 38.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 398.4898 cm
+Q
+q
+1 0 0 1 53 361.6898 cm
+q
+.933333 .956863 .972549 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (A research gap is a specific unresolved limitation or unanswered question in the evidence you reviewed. State the gap, why) Tj T* (it matters, and how your study will address it. Do not label a topic as a gap just because you have not searched it yet.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.294118 .443137 .541176 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 355.6898 cm
+Q
+q
+1 0 0 1 53 335.1898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Query builder) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 296.7898 cm
+q
+BT 1 0 0 1 0 26.3 Tm 11.8 TL /F1 9.1 Tf .141176 .203922 .282353 rg (Combine: ) Tj /F2 9.1 Tf (topic + method + application + synonyms) Tj /F1 9.1 Tf (. Example from your workshop: ) Tj /F3 9.1 Tf (smart traffic AND) Tj T* (reinforcement learning AND signal control) Tj /F1 9.1 Tf (. Try alternate terms and record which databases and filters you) Tj T* (used.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 26 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 6288
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (6) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (IEEE paper starter) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Start from the target conference's official template. This example shows where common content goes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 682.9898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (If you open an IEEE template in Overleaf, keep its document class and preamble. Replace the sample content; do not paste) Tj T* (in a second \\documentclass line. The venue's current author instructions take priority. [7]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 676.9898 cm
+Q
+q
+1 0 0 1 53 662.5898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (main.tex - compact working skeleton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 383.5898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 271 l
+489.2756 273.764 487.0396 276 484.2756 276 c
+5 276 l
+2.236 276 0 273.764 0 271 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 259.7 Tm (\\documentclass[conference]{IEEEtran}) Tj T* ET
+BT 1 0 0 1 9 251.1 Tm (\\usepackage{graphicx}) Tj T* ET
+BT 1 0 0 1 9 242.5 Tm (\\usepackage{amsmath}) Tj T* ET
+BT 1 0 0 1 9 233.9 Tm (\\usepackage{cite}) Tj T* ET
+BT 1 0 0 1 9 225.3 Tm (\\usepackage{url}) Tj T* ET
+BT 1 0 0 1 9 216.7 Tm (\\title{Your Research Paper Title}) Tj T* ET
+BT 1 0 0 1 9 208.1 Tm (\\author{\\IEEEauthorblockN{Your Name}) Tj T* ET
+BT 1 0 0 1 9 199.5 Tm (\\IEEEauthorblockA{Department, University\\\\) Tj T* ET
+BT 1 0 0 1 9 190.9 Tm (City, Country\\\\ email@example.com}}) Tj T* ET
+BT 1 0 0 1 9 182.3 Tm (\\begin{document}) Tj T* ET
+BT 1 0 0 1 9 173.7 Tm (\\maketitle) Tj T* ET
+BT 1 0 0 1 9 165.1 Tm (\\begin{abstract}) Tj T* ET
+BT 1 0 0 1 9 156.5 Tm (Problem. Method. Main result. Contribution.) Tj T* ET
+BT 1 0 0 1 9 147.9 Tm (\\end{abstract}) Tj T* ET
+BT 1 0 0 1 9 139.3 Tm (\\begin{IEEEkeywords}) Tj T* ET
+BT 1 0 0 1 9 130.7 Tm (keyword one, keyword two, keyword three) Tj T* ET
+BT 1 0 0 1 9 122.1 Tm (\\end{IEEEkeywords}) Tj T* ET
+BT 1 0 0 1 9 113.5 Tm (\\section{Introduction}) Tj T* ET
+BT 1 0 0 1 9 104.9 Tm (State the problem and objective. Cite verified work \\cite{overleafGuide}.) Tj T* ET
+BT 1 0 0 1 9 96.3 Tm (\\section{Related Work}) Tj T* ET
+BT 1 0 0 1 9 87.7 Tm (Compare methods, findings, and limitations.) Tj T* ET
+BT 1 0 0 1 9 79.1 Tm (\\section{Methodology}) Tj T* ET
+BT 1 0 0 1 9 70.5 Tm (Describe data, design, and evaluation.) Tj T* ET
+BT 1 0 0 1 9 61.9 Tm (\\section{Results and Discussion}) Tj T* ET
+BT 1 0 0 1 9 53.3 Tm (Report results and explain their meaning.) Tj T* ET
+BT 1 0 0 1 9 44.7 Tm (\\section{Conclusion}) Tj T* ET
+BT 1 0 0 1 9 36.1 Tm (Summarize the contribution and limitations.) Tj T* ET
+BT 1 0 0 1 9 27.5 Tm (\\bibliographystyle{IEEEtran}) Tj T* ET
+BT 1 0 0 1 9 18.9 Tm (\\bibliography{references}) Tj T* ET
+BT 1 0 0 1 9 10.3 Tm (\\end{document}) Tj T* ET
+Q
+q
+1 0 0 1 53 377.5898 cm
+Q
+q
+1 0 0 1 53 357.0898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (What to draft in each part) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 306.3898 cm
+q
+.294118 .443137 .541176 rg
+n 0 47.7 501.2756 -19.3 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 173.0919 33.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1837 33.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Method + results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Problem, approach, headline result,) Tj T* (contribution. Write it after the main sections.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 173.0919 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Motivation, problem statement, research gap,) Tj T* (objective, and paper roadmap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.1837 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Describe steps and evidence precisely.) Tj T* (Separate measured results from interpretation.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 47.7 m 501.2756 47.7 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 47.7 l S
+n 501.2756 0 m 501.2756 47.7 l S
+n 0 28.4 m 501.2756 28.4 l S
+n 167.0919 0 m 167.0919 47.7 l S
+n 334.1837 0 m 334.1837 47.7 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 300.3898 cm
+Q
+q
+1 0 0 1 53 280.1898 cm
+q
+BT 1 0 0 1 0 12.2 Tm -0.105916 Tw 10.1 TL /F1 8 Tf .360784 .431373 .509804 rg (Use ) Tj /F3 8 Tf (\\) Tj (begin{IEEEkeywords}) Tj /F1 8 Tf ( for the keyword block in the IEEE conference class. Section names and ordering can vary by venue; follow) Tj T* 0 Tw (the selected template. [7]) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 6127
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (7) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Figures, tables, and equations) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Use captions and labels so every technical element can be discussed in the text.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 699.2898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Figures: upload the file first) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 573.8898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 117.4 l
+489.2756 120.164 487.0396 122.4 484.2756 122.4 c
+5 122.4 l
+2.236 122.4 0 120.164 0 117.4 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 106.1 Tm (% In the preamble:) Tj T* ET
+BT 1 0 0 1 9 97.4 Tm (\\usepackage{graphicx}) Tj T* ET
+BT 1 0 0 1 9 88.7 Tm  T* ET
+BT 1 0 0 1 9 80 Tm (% In the body:) Tj T* ET
+BT 1 0 0 1 9 71.3 Tm (\\begin{figure}[t]) Tj T* ET
+BT 1 0 0 1 9 62.6 Tm (  \\centering) Tj T* ET
+BT 1 0 0 1 9 53.9 Tm (  \\includegraphics[width=0.85\\linewidth]{figures/system.png}) Tj T* ET
+BT 1 0 0 1 9 45.2 Tm (  \\caption{System architecture for the proposed study.}) Tj T* ET
+BT 1 0 0 1 9 36.5 Tm (  \\label{fig:system}) Tj T* ET
+BT 1 0 0 1 9 27.8 Tm (\\end{figure}) Tj T* ET
+BT 1 0 0 1 9 19.1 Tm  T* ET
+BT 1 0 0 1 9 10.4 Tm (Figure~\\ref{fig:system} shows the system architecture.) Tj T* ET
+Q
+q
+1 0 0 1 53 570.8898 cm
+Q
+q
+1 0 0 1 53 560.7898 cm
+q
+BT 1 0 0 1 0 2.1 Tm 10.1 TL /F1 8 Tf .360784 .431373 .509804 rg (Use a short filename without spaces. Place ) Tj /F3 8 Tf (\\) Tj (label) Tj /F1 8 Tf ( after ) Tj /F3 8 Tf (\\) Tj (caption) Tj /F1 8 Tf ( so the figure number is captured correctly. [8-9]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 540.2898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Tables: align columns and label the evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 406.1898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 126.1 l
+489.2756 128.864 487.0396 131.1 484.2756 131.1 c
+5 131.1 l
+2.236 131.1 0 128.864 0 126.1 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 114.8 Tm (\\begin{table}[t]) Tj T* ET
+BT 1 0 0 1 9 106.1 Tm (  \\centering) Tj T* ET
+BT 1 0 0 1 9 97.4 Tm (  \\caption{Illustrative evaluation results.}) Tj T* ET
+BT 1 0 0 1 9 88.7 Tm (  \\label{tab:results}) Tj T* ET
+BT 1 0 0 1 9 80 Tm (  \\begin{tabular}{lcc}) Tj T* ET
+BT 1 0 0 1 9 71.3 Tm (    \\hline) Tj T* ET
+BT 1 0 0 1 9 62.6 Tm (    Method & Accuracy & Notes \\\\) Tj T* ET
+BT 1 0 0 1 9 53.9 Tm (    \\hline) Tj T* ET
+BT 1 0 0 1 9 45.2 Tm (    Baseline & 0.82 & Reference method \\\\) Tj T* ET
+BT 1 0 0 1 9 36.5 Tm (    Proposed & 0.87 & Example value only \\\\) Tj T* ET
+BT 1 0 0 1 9 27.8 Tm (    \\hline) Tj T* ET
+BT 1 0 0 1 9 19.1 Tm (  \\end{tabular}) Tj T* ET
+BT 1 0 0 1 9 10.4 Tm (\\end{table}) Tj T* ET
+Q
+q
+1 0 0 1 53 403.1898 cm
+Q
+q
+1 0 0 1 53 393.0898 cm
+q
+BT 1 0 0 1 0 2.1 Tm 10.1 TL /F1 8 Tf .360784 .431373 .509804 rg (In ) Tj /F3 8 Tf (tabular) Tj /F1 8 Tf (, ) Tj /F3 8 Tf (&) Tj /F1 8 Tf ( separates cells and ) Tj /F3 8 Tf (\\\\) Tj /F1 8 Tf ( ends a row. Replace the example values with your measured results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 372.5898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Equations: inline, display, or aligned) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 273.2898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 91.3 l
+489.2756 94.064 487.0396 96.3 484.2756 96.3 c
+5 96.3 l
+2.236 96.3 0 94.064 0 91.3 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 80 Tm (Inline: \\\(x_i^2 + y_i^2 = z_i^2\\\)) Tj T* ET
+BT 1 0 0 1 9 71.3 Tm  T* ET
+BT 1 0 0 1 9 62.6 Tm (\\begin{align}) Tj T* ET
+BT 1 0 0 1 9 53.9 Tm (  J &= \\sum_{t=0}^{T} \\gamma^t r_t \\\\) Tj T* ET
+BT 1 0 0 1 9 45.2 Tm (  \\text{subject to } & 0 \\leq \\gamma \\leq 1) Tj T* ET
+BT 1 0 0 1 9 36.5 Tm (\\label{eq:return}) Tj T* ET
+BT 1 0 0 1 9 27.8 Tm (\\end{align}) Tj T* ET
+BT 1 0 0 1 9 19.1 Tm  T* ET
+BT 1 0 0 1 9 10.4 Tm (Equation~\\eqref{eq:return} defines the objective.) Tj T* ET
+Q
+q
+1 0 0 1 53 270.2898 cm
+Q
+q
+1 0 0 1 53 233.4898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (Use [t], [b], or [htbp] as placement suggestions. LaTeX may move a figure or table to keep the page readable. Check the) Tj T* (final PDF and the target template's rules. [8-12]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 32 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Length 13250
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (8) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (V2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Four components, side by side) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Compare the source with an illustrative preview of how each component can appear in a PDF.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 705.3898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (1. Figure and caption) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 580.0898 cm
+q
+.294118 .443137 .541176 rg
+n 0 122.3 245.625 -17.3 re f*
+.086275 .552941 .533333 rg
+n 245.625 122.3 255.6506 -17.3 re f*
+.937255 .960784 .972549 rg
+n 0 105 245.625 -105 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 109 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (LATEX SOURCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.625 109 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (PAGE PREVIEW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 26.556 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+228.625 0 l
+231.389 0 233.625 2.236 233.625 5 c
+233.625 46.888 l
+233.625 49.652 231.389 51.888 228.625 51.888 c
+5 51.888 l
+2.236 51.888 0 49.652 0 46.888 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 7 37.488 Tm (\\includegraphics[width=.8\\linewidth]{system.png}) Tj T* ET
+BT 1 0 0 1 7 28.016 Tm (\\caption{System architecture.}) Tj T* ET
+BT 1 0 0 1 7 18.544 Tm (\\label{fig:system}) Tj T* ET
+BT 1 0 0 1 7 9.072 Tm (% Cite in text: Figure~\\ref{fig:system}) Tj T* ET
+Q
+q
+1 0 0 1 251.625 5 cm
+1 1 1 rg
+.835294 .878431 .909804 RG
+.7 w
+n
+5 0 m
+238.6506 0 l
+241.4146 0 243.6506 2.236 243.6506 5 c
+243.6506 90 l
+243.6506 92.764 241.4146 95 238.6506 95 c
+5 95 l
+2.236 95 0 92.764 0 90 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.905882 .956863 .94902 rg
+n
+10 75 m
+233.6506 75 l
+235.309 75 236.6506 76.3416 236.6506 78 c
+236.6506 85 l
+236.6506 86.6584 235.309 88 233.6506 88 c
+10 88 l
+8.3416 88 7 86.6584 7 85 c
+7 78 l
+7 76.3416 8.3416 75 10 75 c
+h
+f*
+.086275 .552941 .533333 rg
+BT /F2 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 12 79 Tm (ILLUSTRATIVE PDF OUTPUT) Tj T* ET
+.933333 .956863 .972549 rg
+.086275 .552941 .533333 RG
+n
+16 28 m
+75.88352 28 l
+77.54192 28 78.88352 29.3416 78.88352 31 c
+78.88352 49 l
+78.88352 50.6584 77.54192 52 75.88352 52 c
+16 52 l
+14.3416 52 13 50.6584 13 49 c
+13 31 l
+13 29.3416 14.3416 28 16 28 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 35.43276 37 Tm (Sensor) Tj T* ET
+.360784 .431373 .509804 RG
+n 80.88352 40 m 85.88352 40 l S
+n 85.88352 40 m 81.88352 43 l S
+n 85.88352 40 m 81.88352 37 l S
+.933333 .956863 .972549 rg
+.086275 .552941 .533333 RG
+n
+91.88352 28 m
+151.767 28 l
+153.4254 28 154.767 29.3416 154.767 31 c
+154.767 49 l
+154.767 50.6584 153.4254 52 151.767 52 c
+91.88352 52 l
+90.22512 52 88.88352 50.6584 88.88352 49 c
+88.88352 31 l
+88.88352 29.3416 90.22512 28 91.88352 28 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 107.0135 37 Tm (Controller) Tj T* ET
+.360784 .431373 .509804 RG
+n 156.767 40 m 161.767 40 l S
+n 161.767 40 m 157.767 43 l S
+n 161.767 40 m 157.767 37 l S
+.933333 .956863 .972549 rg
+.086275 .552941 .533333 RG
+n
+167.767 28 m
+227.6506 28 l
+229.309 28 230.6506 29.3416 230.6506 31 c
+230.6506 49 l
+230.6506 50.6584 229.309 52 227.6506 52 c
+167.767 52 l
+166.1086 52 164.767 50.6584 164.767 49 c
+164.767 31 l
+164.767 29.3416 166.1086 28 167.767 28 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 188.4057 37 Tm (Signal) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F1 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 71.69208 14 Tm (Fig. 1. Example system architecture.) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.5 w
+n 0 122.3 m 501.2756 122.3 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 122.3 l S
+n 501.2756 0 m 501.2756 122.3 l S
+.45 w
+n 0 105 m 501.2756 105 l S
+n 245.625 0 m 245.625 122.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 574.0898 cm
+Q
+q
+1 0 0 1 53 559.6898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (2. Table with aligned columns) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 437.3898 cm
+q
+.294118 .443137 .541176 rg
+n 0 119.3 245.625 -17.3 re f*
+.086275 .552941 .533333 rg
+n 245.625 119.3 255.6506 -17.3 re f*
+.937255 .960784 .972549 rg
+n 0 102 245.625 -102 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 106 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (LATEX SOURCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.625 106 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (PAGE PREVIEW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 20.32 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+228.625 0 l
+231.389 0 233.625 2.236 233.625 5 c
+233.625 56.36 l
+233.625 59.124 231.389 61.36 228.625 61.36 c
+5 61.36 l
+2.236 61.36 0 59.124 0 56.36 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 7 46.96 Tm (\\begin{tabular}{lc}) Tj T* ET
+BT 1 0 0 1 7 37.488 Tm (Method & Accuracy \\\\) Tj T* ET
+BT 1 0 0 1 7 28.016 Tm (Baseline & 0.82 \\\\) Tj T* ET
+BT 1 0 0 1 7 18.544 Tm (Proposed & 0.87 \\\\) Tj T* ET
+BT 1 0 0 1 7 9.072 Tm (\\end{tabular}) Tj T* ET
+Q
+q
+1 0 0 1 251.625 5 cm
+1 1 1 rg
+.835294 .878431 .909804 RG
+.7 w
+n
+5 0 m
+238.6506 0 l
+241.4146 0 243.6506 2.236 243.6506 5 c
+243.6506 87 l
+243.6506 89.764 241.4146 92 238.6506 92 c
+5 92 l
+2.236 92 0 89.764 0 87 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.905882 .956863 .94902 rg
+n
+10 72 m
+233.6506 72 l
+235.309 72 236.6506 73.3416 236.6506 75 c
+236.6506 82 l
+236.6506 83.6584 235.309 85 233.6506 85 c
+10 85 l
+8.3416 85 7 83.6584 7 82 c
+7 75 l
+7 73.3416 8.3416 72 10 72 c
+h
+f*
+.086275 .552941 .533333 rg
+BT /F2 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 12 76 Tm (ILLUSTRATIVE PDF OUTPUT) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F2 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 77.73088 59 Tm (TABLE I. EXAMPLE RESULTS) Tj T* ET
+.294118 .443137 .541176 rg
+.835294 .878431 .909804 RG
+n 13 43 217.6506 13 re B*
+n 139.2373 43 m 139.2373 56 l S
+1 1 1 rg
+BT /F2 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 18 47 Tm (Method) Tj T* ET
+BT 1 0 0 1 144.2373 47 Tm (Accuracy) Tj T* ET
+1 1 1 rg
+.835294 .878431 .909804 RG
+n 13 30 217.6506 13 re B*
+n 139.2373 30 m 139.2373 43 l S
+.141176 .203922 .282353 rg
+BT /F1 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 18 34 Tm (Baseline) Tj T* ET
+BT 1 0 0 1 144.2373 34 Tm (0.82) Tj T* ET
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n 13 17 217.6506 13 re B*
+n 139.2373 17 m 139.2373 30 l S
+.141176 .203922 .282353 rg
+BT /F1 6.2 Tf 7.44 TL ET
+BT 1 0 0 1 18 21 Tm (Proposed) Tj T* ET
+BT 1 0 0 1 144.2373 21 Tm (0.87) Tj T* ET
+.360784 .431373 .509804 rg
+BT /F4 5.7 Tf 6.84 TL ET
+BT 1 0 0 1 93.94943 10 Tm (Illustrative values only) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.5 w
+n 0 119.3 m 501.2756 119.3 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 119.3 l S
+n 501.2756 0 m 501.2756 119.3 l S
+.45 w
+n 0 102 m 501.2756 102 l S
+n 245.625 0 m 245.625 119.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 431.3898 cm
+Q
+q
+1 0 0 1 53 416.9898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (3. Numbered equation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 292.6898 cm
+q
+.294118 .443137 .541176 rg
+n 0 121.3 245.625 -17.3 re f*
+.086275 .552941 .533333 rg
+n 245.625 121.3 255.6506 -17.3 re f*
+.937255 .960784 .972549 rg
+n 0 104 245.625 -104 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 108 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (LATEX SOURCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.625 108 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (PAGE PREVIEW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21.32 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+228.625 0 l
+231.389 0 233.625 2.236 233.625 5 c
+233.625 56.36 l
+233.625 59.124 231.389 61.36 228.625 61.36 c
+5 61.36 l
+2.236 61.36 0 59.124 0 56.36 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 7 46.96 Tm (\\begin{equation}) Tj T* ET
+BT 1 0 0 1 7 37.488 Tm (J = \\sum_{t=0}^{T} \\gamma^t r_t) Tj T* ET
+BT 1 0 0 1 7 28.016 Tm (\\label{eq:return}) Tj T* ET
+BT 1 0 0 1 7 18.544 Tm (\\end{equation}) Tj T* ET
+BT 1 0 0 1 7 9.072 Tm (% Cite it with \\eqref{eq:return}) Tj T* ET
+Q
+q
+1 0 0 1 251.625 5 cm
+1 1 1 rg
+.835294 .878431 .909804 RG
+.7 w
+n
+5 0 m
+238.6506 0 l
+241.4146 0 243.6506 2.236 243.6506 5 c
+243.6506 89 l
+243.6506 91.764 241.4146 94 238.6506 94 c
+5 94 l
+2.236 94 0 91.764 0 89 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.905882 .956863 .94902 rg
+n
+10 74 m
+233.6506 74 l
+235.309 74 236.6506 75.3416 236.6506 77 c
+236.6506 84 l
+236.6506 85.6584 235.309 87 233.6506 87 c
+10 87 l
+8.3416 87 7 85.6584 7 84 c
+7 77 l
+7 75.3416 8.3416 74 10 74 c
+h
+f*
+.086275 .552941 .533333 rg
+BT /F2 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 12 78 Tm (ILLUSTRATIVE PDF OUTPUT) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F4 9.1 Tf 10.92 TL ET
+BT 1 0 0 1 79.36013 39 Tm (J = sum gamma^t r_t) Tj T* ET
+BT /F1 6.8 Tf 8.16 TL ET
+BT 1 0 0 1 106.4199 24 Tm (t = 0, ..., T) Tj T* ET
+BT 1 0 0 1 222.341 20 Tm (\(1\)) Tj T* ET
+.835294 .878431 .909804 RG
+n 13 12 m 230.6506 12 l S
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.5 w
+n 0 121.3 m 501.2756 121.3 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 121.3 l S
+n 501.2756 0 m 501.2756 121.3 l S
+.45 w
+n 0 104 m 501.2756 104 l S
+n 245.625 0 m 245.625 121.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 286.6898 cm
+Q
+q
+1 0 0 1 53 272.2898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (4. Resume heading and evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 142.9898 cm
+q
+.294118 .443137 .541176 rg
+n 0 126.3 245.625 -17.3 re f*
+.086275 .552941 .533333 rg
+n 245.625 126.3 255.6506 -17.3 re f*
+.937255 .960784 .972549 rg
+n 0 109 245.625 -109 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 113 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (LATEX SOURCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 251.625 113 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (PAGE PREVIEW) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.82 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+228.625 0 l
+231.389 0 233.625 2.236 233.625 5 c
+233.625 56.36 l
+233.625 59.124 231.389 61.36 228.625 61.36 c
+5 61.36 l
+2.236 61.36 0 59.124 0 56.36 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 7 46.96 Tm (\\section*{Projects}) Tj T* ET
+BT 1 0 0 1 7 37.488 Tm (\\textbf{Project Title} \\hfill 2026) Tj T* ET
+BT 1 0 0 1 7 28.016 Tm (\\begin{itemize}) Tj T* ET
+BT 1 0 0 1 7 18.544 Tm (  \\item Built a tested project with [tools].) Tj T* ET
+BT 1 0 0 1 7 9.072 Tm (\\end{itemize}) Tj T* ET
+Q
+q
+1 0 0 1 251.625 5 cm
+1 1 1 rg
+.835294 .878431 .909804 RG
+.7 w
+n
+5 0 m
+238.6506 0 l
+241.4146 0 243.6506 2.236 243.6506 5 c
+243.6506 94 l
+243.6506 96.764 241.4146 99 238.6506 99 c
+5 99 l
+2.236 99 0 96.764 0 94 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.905882 .956863 .94902 rg
+n
+10 79 m
+233.6506 79 l
+235.309 79 236.6506 80.3416 236.6506 82 c
+236.6506 89 l
+236.6506 90.6584 235.309 92 233.6506 92 c
+10 92 l
+8.3416 92 7 90.6584 7 89 c
+7 82 l
+7 80.3416 8.3416 79 10 79 c
+h
+f*
+.086275 .552941 .533333 rg
+BT /F2 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 12 83 Tm (ILLUSTRATIVE PDF OUTPUT) Tj T* ET
+.141176 .203922 .282353 rg
+BT /F2 9 Tf 10.8 TL ET
+BT 1 0 0 1 95.82878 60 Tm (FULL NAME) Tj T* ET
+.360784 .431373 .509804 rg
+BT /F1 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 70.79688 50 Tm (City  |  email@example.com  |  LinkedIn) Tj T* ET
+.294118 .443137 .541176 rg
+BT /F2 6.7 Tf 8.04 TL ET
+BT 1 0 0 1 13 33 Tm (EDUCATION) Tj T* ET
+.835294 .878431 .909804 RG
+n 13 31 m 230.6506 31 l S
+.141176 .203922 .282353 rg
+BT /F1 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 16 22 Tm (\177  Degree / project, evidence, and date) Tj T* ET
+.294118 .443137 .541176 rg
+BT /F2 6.7 Tf 8.04 TL ET
+BT 1 0 0 1 13 11 Tm (PROJECTS) Tj T* ET
+.835294 .878431 .909804 RG
+n 13 9 m 230.6506 9 l S
+.141176 .203922 .282353 rg
+BT /F1 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 16 0 Tm (\177  Degree / project, evidence, and date) Tj T* ET
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.5 w
+n 0 126.3 m 501.2756 126.3 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 126.3 l S
+n 501.2756 0 m 501.2756 126.3 l S
+.45 w
+n 0 109 m 501.2756 109 l S
+n 245.625 0 m 245.625 126.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 136.9898 cm
+Q
+q
+1 0 0 1 53 126.8898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (The sample table and resume details are placeholders. Replace them with measured research results and facts you can verify.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+32 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 35 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 8195
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 544.2724 21 Tm (9) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Citations and the .bib file) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (A citation key connects the sentence in your paper to a verified bibliography entry.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 705.3898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (In main.tex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 648.3898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 49 l
+489.2756 51.764 487.0396 54 484.2756 54 c
+5 54 l
+2.236 54 0 51.764 0 49 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.4 Tf 8.88 TL ET
+BT 1 0 0 1 9 37.6 Tm (A related workflow is described in \\cite{overleafGuide}.) Tj T* ET
+BT 1 0 0 1 9 28.6 Tm  T* ET
+BT 1 0 0 1 9 19.6 Tm (\\bibliographystyle{IEEEtran}) Tj T* ET
+BT 1 0 0 1 9 10.6 Tm (\\bibliography{references}) Tj T* ET
+Q
+q
+1 0 0 1 53 624.7898 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14.5 Tm /F1 9.1 Tf 11.8 TL (Create references.bib in the project and use the citation key exactly as written. Keep the bibliography style that came with) Tj T* (the venue template. [13]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 610.3898 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 2 Tm /F2 8.4 Tf 10.4 TL (In references.bib - real source used for this syntax example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 536.5898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 65.8 l
+489.2756 68.564 487.0396 70.8 484.2756 70.8 c
+5 70.8 l
+2.236 70.8 0 68.564 0 65.8 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 54.5 Tm (@misc{overleafGuide,) Tj T* ET
+BT 1 0 0 1 9 45.7 Tm (  author       = {{Overleaf}},) Tj T* ET
+BT 1 0 0 1 9 36.9 Tm (  title        = {Learn LaTeX in 30 minutes},) Tj T* ET
+BT 1 0 0 1 9 28.1 Tm (  howpublished = {\\url{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes}},) Tj T* ET
+BT 1 0 0 1 9 19.3 Tm (  note         = {Accessed 2026-09-28}) Tj T* ET
+BT 1 0 0 1 9 10.5 Tm (}) Tj T* ET
+Q
+q
+1 0 0 1 53 530.5898 cm
+Q
+q
+1 0 0 1 53 510.0898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Reference workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 454.0898 cm
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+4 8 m
+87.45512 8 l
+89.66632 8 91.45512 9.7888 91.45512 12 c
+91.45512 38 l
+91.45512 40.2112 89.66632 42 87.45512 42 c
+4 42 l
+1.7888 42 0 40.2112 0 38 c
+0 12 l
+0 9.7888 1.7888 8 4 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 25.32276 21 Tm (Find source) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 92.45512 25 m 97.45512 25 l S
+n 97.45512 25 m 94.45512 28 l S
+n 97.45512 25 m 94.45512 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+103.4551 8 m
+186.9102 8 l
+189.1214 8 190.9102 9.7888 190.9102 12 c
+190.9102 38 l
+190.9102 40.2112 189.1214 42 186.9102 42 c
+103.4551 42 l
+101.2439 42 99.45512 40.2112 99.45512 38 c
+99.45512 12 l
+99.45512 9.7888 101.2439 8 103.4551 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 118.3735 21 Tm (Verify metadata) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 191.9102 25 m 196.9102 25 l S
+n 196.9102 25 m 193.9102 28 l S
+n 196.9102 25 m 193.9102 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+202.9102 8 m
+286.3654 8 l
+288.5766 8 290.3654 9.7888 290.3654 12 c
+290.3654 38 l
+290.3654 40.2112 288.5766 42 286.3654 42 c
+202.9102 42 l
+200.699 42 198.9102 40.2112 198.9102 38 c
+198.9102 12 l
+198.9102 9.7888 200.699 8 202.9102 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 225.835 21 Tm (Export .bib) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 291.3654 25 m 296.3654 25 l S
+n 296.3654 25 m 293.3654 28 l S
+n 296.3654 25 m 293.3654 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+302.3654 8 m
+385.8205 8 l
+388.0317 8 389.8205 9.7888 389.8205 12 c
+389.8205 38 l
+389.8205 40.2112 388.0317 42 385.8205 42 c
+302.3654 42 l
+300.1542 42 298.3654 40.2112 298.3654 38 c
+298.3654 12 l
+298.3654 9.7888 300.1542 8 302.3654 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 331.8925 21 Tm (Upload) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 390.8205 25 m 395.8205 25 l S
+n 395.8205 25 m 392.8205 28 l S
+n 395.8205 25 m 392.8205 22 l S
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+401.8205 8 m
+485.2756 8 l
+487.4868 8 489.2756 9.7888 489.2756 12 c
+489.2756 38 l
+489.2756 40.2112 487.4868 42 485.2756 42 c
+401.8205 42 l
+399.6093 42 397.8205 40.2112 397.8205 38 c
+397.8205 12 l
+397.8205 9.7888 399.6093 8 401.8205 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 422.4376 21 Tm (Cite + check) Tj T* ET
+Q
+q
+1 0 0 1 53 448.0898 cm
+Q
+q
+1 0 0 1 53 371.1898 cm
+q
+.294118 .443137 .541176 rg
+n 0 76.9 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 38.4 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Common problem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([?] or missing citation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Does the key in \\cite{...} exactly match the key in references.bib?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Wrong reference format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Is the template using BibTeX, biblatex, or a venue-specific system? Keep one workflow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Generated entry looks plausible) Tj T* ET
+Q
+Q
+q
+1 0 0 1 156 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Open the source record. Verify title, authors, year, venue, pages, and DOI.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 76.9 m 501.2756 76.9 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 76.9 l S
+n 501.2756 0 m 501.2756 76.9 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 150 0 m 150 76.9 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 364.1898 cm
+Q
+q
+1 0 0 1 53 327.3898 cm
+q
+.933333 .956863 .972549 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (The example citation above documents the guide syntax; it is not evidence for a research claim. In your paper, cite the) Tj T* (original paper or dataset that supports each claim. Never keep a reference just because an AI produced it.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.294118 .443137 .541176 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 38 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 8779
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 540.2692 21 Tm (10) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Use AI in the research workflow) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Use tools to find leads and organize reading; use original sources to establish what is true.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 576.0898 cm
+q
+.294118 .443137 .541176 rg
+n 0 143.7 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 105.2 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 66.8 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 28.4 501.2756 -28.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 129.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Examples from your directory) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 129.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Verify by) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 110.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Discover papers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 110.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Google Scholar, Elicit, Consensus) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 110.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Open the paper page or publisher record; confirm it exists.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 91 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Explore connections) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 91 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (ResearchRabbit) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 91 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Follow citation trails to relevant original studies.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 71.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Read a source set) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 71.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (NotebookLM, SciSpace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 71.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Check any summary against the paper's methods and results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 52.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Manage references) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 52.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Zotero) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 52.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Review exported .bib fields and citation keys.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Draft or code LaTeX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (ChatGPT, Gemini) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Compile and inspect the PDF; verify every claim and citation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 14.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Make a diagram) Tj T* ET
+Q
+Q
+q
+1 0 0 1 104 14.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Mermaid with an AI assistant; Napkin AI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 277 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL -0.058623 Tw (Check labels, arrows, and whether the diagram matches the actual) Tj T* 0 Tw (system.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 143.7 m 501.2756 143.7 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 143.7 l S
+n 501.2756 0 m 501.2756 143.7 l S
+n 0 124.4 m 501.2756 124.4 l S
+n 0 105.2 m 501.2756 105.2 l S
+n 0 86 m 501.2756 86 l S
+n 0 66.8 m 501.2756 66.8 l S
+n 0 47.6 m 501.2756 47.6 l S
+n 0 28.4 m 501.2756 28.4 l S
+n 98 0 m 98 143.7 l S
+n 271 0 m 271 143.7 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 570.0898 cm
+Q
+q
+1 0 0 1 53 533.2898 cm
+q
+.933333 .956863 .972549 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (These are examples from the supplied tool directory, not endorsements. Product names, access, and features can change.) Tj T* (Follow your institution's rules for AI use.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.294118 .443137 .541176 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 527.2898 cm
+Q
+q
+1 0 0 1 53 506.7898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (A prompt that supports a literature review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 425.5898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 73.2 l
+489.2756 75.964 487.0396 78.2 484.2756 78.2 c
+5 78.2 l
+2.236 78.2 0 75.964 0 73.2 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 61.9 Tm (I am studying [research question]. Use only the papers I provide.) Tj T* ET
+BT 1 0 0 1 9 53.3 Tm (Create a comparison table with: citation key, research question,) Tj T* ET
+BT 1 0 0 1 9 44.7 Tm (method, dataset or context, main finding, limitation, and relevance.) Tj T* ET
+BT 1 0 0 1 9 36.1 Tm (For every cell, give a page, section, or table location when possible.) Tj T* ET
+BT 1 0 0 1 9 27.5 Tm (Mark missing information as 'not stated'. Do not invent citations,) Tj T* ET
+BT 1 0 0 1 9 18.9 Tm (results, or a research gap. After the table, suggest 2-3 possible gaps) Tj T* ET
+BT 1 0 0 1 9 10.3 Tm (and explain which evidence supports each suggestion.) Tj T* ET
+Q
+q
+1 0 0 1 53 419.5898 cm
+Q
+q
+1 0 0 1 53 399.0898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Before you write) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 299.9898 cm
+q
+.294118 .443137 .541176 rg
+n 0 96.1 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 57.6 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 19.2 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102 81.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Ask yourself) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Source quality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Is this the original article, a review, a preprint, or a secondary summary?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Evidence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Did I read the relevant section, not only the abstract or AI summary?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Research gap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Can I point to a limitation, unresolved question, or missing comparison in the sources?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Citation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 102 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Can I find the source by title, author, year, venue, and DOI?) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 96.1 m 501.2756 96.1 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 96.1 l S
+n 501.2756 0 m 501.2756 96.1 l S
+n 0 76.8 m 501.2756 76.8 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 96 0 m 96 96.1 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 41 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 6594
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 540.2692 21 Tm (11) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Build resume content before LaTeX) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (For a student industry application, aim for clear, relevant evidence. Follow the conventions of the target market and role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 699.2898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (A practical section order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 571.7898 cm
+q
+.294118 .443137 .541176 rg
+n 0 124.5 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 86 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 47.6 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 110.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Section) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128 110.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Include) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 91 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Header) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128 91 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Name, professional email, phone if appropriate, city/region, LinkedIn, GitHub, portfolio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 71.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128 71.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Degree, institution, expected graduation, selected coursework only when relevant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 52.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128 52.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Tools and methods you can explain and use. Group them by type.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Projects / experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Your role, what you built or analyzed, methods/tools, and a measured result if available.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Research / certificates /) Tj T* (leadership) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128 14.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Add only sections that strengthen this application.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 124.5 m 501.2756 124.5 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 124.5 l S
+n 501.2756 0 m 501.2756 124.5 l S
+n 0 105.2 m 501.2756 105.2 l S
+n 0 86 m 501.2756 86 l S
+n 0 66.8 m 501.2756 66.8 l S
+n 0 47.6 m 501.2756 47.6 l S
+n 0 28.4 m 501.2756 28.4 l S
+n 122 0 m 122 124.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 565.7898 cm
+Q
+q
+1 0 0 1 53 545.2898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (A strong bullet pattern) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 505.4898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (Action verb + what you built or changed + method/tools + evidence of impact. Example pattern: 'Built [system] with [tools];) Tj T* (evaluated it on [test or dataset]; achieved [measured result].' Use a metric only when you can explain how it was measured.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 499.4898 cm
+Q
+q
+1 0 0 1 53 478.9898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Prompt for truthful resume drafting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 397.7898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 73.2 l
+489.2756 75.964 487.0396 78.2 484.2756 78.2 c
+5 78.2 l
+2.236 78.2 0 75.964 0 73.2 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 61.9 Tm (Turn only the facts below into concise resume bullets for [target role].) Tj T* ET
+BT 1 0 0 1 9 53.3 Tm (Use action verbs and name the tools I actually used. Keep the meaning) Tj T* ET
+BT 1 0 0 1 9 44.7 Tm (accurate. Do not invent metrics, responsibilities, skills, dates, or) Tj T* ET
+BT 1 0 0 1 9 36.1 Tm (certifications. If a useful result is missing, ask me what evidence I) Tj T* ET
+BT 1 0 0 1 9 27.5 Tm (have instead of filling it in. Return: \(1\) 3 bullet options, \(2\) any) Tj T* ET
+BT 1 0 0 1 9 18.9 Tm (questions needed to make them more specific, and \(3\) a short list of) Tj T* ET
+BT 1 0 0 1 9 10.3 Tm (claims I should verify. Facts: [paste notes]) Tj T* ET
+Q
+q
+1 0 0 1 53 391.7898 cm
+Q
+q
+1 0 0 1 53 354.9898 cm
+q
+.933333 .956863 .972549 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL -0.114376 Tw (The resume/CV distinction varies across regions and employers. Treat 'one-page industry resume vs. fuller academic CV' as) Tj T* 0 Tw (a workshop starting point, then use the language and length requested by the actual application.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.294118 .443137 .541176 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/Contents 43 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 44 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+43 0 obj
+<<
+/Length 6634
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 540.2692 21 Tm (12) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (A clean one-page resume starter) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (This uses basic LaTeX commands so you can see the structure. Replace every bracketed field with true details.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 414.4898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 300.3 l
+489.2756 303.064 487.0396 305.3 484.2756 305.3 c
+5 305.3 l
+2.236 305.3 0 303.064 0 300.3 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 289 Tm (\\documentclass[10pt,a4paper]{article}) Tj T* ET
+BT 1 0 0 1 9 280.55 Tm (\\usepackage[margin=0.65in]{geometry}) Tj T* ET
+BT 1 0 0 1 9 272.1 Tm (\\usepackage[hidelinks]{hyperref}) Tj T* ET
+BT 1 0 0 1 9 263.65 Tm (\\usepackage{enumitem}) Tj T* ET
+BT 1 0 0 1 9 255.2 Tm (\\setlist[itemize]{leftmargin=*,nosep}) Tj T* ET
+BT 1 0 0 1 9 246.75 Tm (\\pagestyle{empty}) Tj T* ET
+BT 1 0 0 1 9 238.3 Tm (\\begin{document}) Tj T* ET
+BT 1 0 0 1 9 229.85 Tm (\\begin{center}) Tj T* ET
+BT 1 0 0 1 9 221.4 Tm (  {\\LARGE \\textbf{Full Name}}\\\\) Tj T* ET
+BT 1 0 0 1 9 212.95 Tm (  City, Country | \\href{mailto:name@example.com}{name@example.com}\\\\) Tj T* ET
+BT 1 0 0 1 9 204.5 Tm (  \\href{https://linkedin.com/in/username}{LinkedIn} |) Tj T* ET
+BT 1 0 0 1 9 196.05 Tm (  \\href{https://github.com/username}{GitHub}) Tj T* ET
+BT 1 0 0 1 9 187.6 Tm (\\end{center}) Tj T* ET
+BT 1 0 0 1 9 179.15 Tm (\\section*{Education}) Tj T* ET
+BT 1 0 0 1 9 170.7 Tm (\\textbf{Degree}, University \\hfill Expected YYYY\\\\) Tj T* ET
+BT 1 0 0 1 9 162.25 Tm (Relevant coursework: [course], [course]) Tj T* ET
+BT 1 0 0 1 9 153.8 Tm (\\section*{Technical Skills}) Tj T* ET
+BT 1 0 0 1 9 145.35 Tm (\\textbf{Languages:} [verified skills]\\\\) Tj T* ET
+BT 1 0 0 1 9 136.9 Tm (\\textbf{Tools:} [tools used in projects]) Tj T* ET
+BT 1 0 0 1 9 128.45 Tm (\\section*{Projects}) Tj T* ET
+BT 1 0 0 1 9 120 Tm (\\textbf{Project Title} \\hfill Month YYYY) Tj T* ET
+BT 1 0 0 1 9 111.55 Tm (\\begin{itemize}) Tj T* ET
+BT 1 0 0 1 9 103.1 Tm (  \\item Built [what] using [tools]; tested with [method]; result: [evidence].) Tj T* ET
+BT 1 0 0 1 9 94.65 Tm (\\end{itemize}) Tj T* ET
+BT 1 0 0 1 9 86.2 Tm (\\section*{Experience}) Tj T* ET
+BT 1 0 0 1 9 77.75 Tm (\\textbf{Role}, Organization \\hfill Month YYYY -- Month YYYY) Tj T* ET
+BT 1 0 0 1 9 69.3 Tm (\\begin{itemize}) Tj T* ET
+BT 1 0 0 1 9 60.85 Tm (  \\item [Action] + [scope] + [tool] + [verified outcome].) Tj T* ET
+BT 1 0 0 1 9 52.4 Tm (\\end{itemize}) Tj T* ET
+BT 1 0 0 1 9 43.95 Tm (\\section*{Achievements}) Tj T* ET
+BT 1 0 0 1 9 35.5 Tm (\\begin{itemize}) Tj T* ET
+BT 1 0 0 1 9 27.05 Tm (  \\item [Award or responsibility, issuer, date].) Tj T* ET
+BT 1 0 0 1 9 18.6 Tm (\\end{itemize}) Tj T* ET
+BT 1 0 0 1 9 10.15 Tm (\\end{document}) Tj T* ET
+Q
+q
+1 0 0 1 53 407.4898 cm
+Q
+q
+1 0 0 1 53 311.3898 cm
+q
+.294118 .443137 .541176 rg
+n 0 96.1 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 57.6 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 19.2 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 81.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 81.8 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Why it appears) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\section*{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (An unnumbered heading for a compact resume.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\hfill) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Pushes a date or short detail to the right on the same line.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\href{URL}{label}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Creates a clickable email, portfolio, or profile link.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\begin{itemize} ... \\item) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Creates concise achievement bullets.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 96.1 m 501.2756 96.1 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 96.1 l S
+n 501.2756 0 m 501.2756 96.1 l S
+n 0 76.8 m 501.2756 76.8 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 170 0 m 170 96.1 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 305.3898 cm
+Q
+q
+1 0 0 1 53 268.5898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (A template may define its own commands, margins, and section macros. If you start from a resume template, keep its) Tj T* (structure and edit the content first. Compile, check page count, and review every link and date.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+44 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 47 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 9664
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 540.2692 21 Tm (13) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Debug LaTeX without guessing) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Fix one cause, recompile, and inspect the result after each meaningful change.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 666.7898 cm
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+4 8 m
+87.45512 8 l
+89.66632 8 91.45512 9.7888 91.45512 12 c
+91.45512 38 l
+91.45512 40.2112 89.66632 42 87.45512 42 c
+4 42 l
+1.7888 42 0 40.2112 0 38 c
+0 12 l
+0 9.7888 1.7888 8 4 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 27.52236 21 Tm (Recompile) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 92.45512 25 m 97.45512 25 l S
+n 97.45512 25 m 94.45512 28 l S
+n 97.45512 25 m 94.45512 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+103.4551 8 m
+186.9102 8 l
+189.1214 8 190.9102 9.7888 190.9102 12 c
+190.9102 38 l
+190.9102 40.2112 189.1214 42 186.9102 42 c
+103.4551 42 l
+101.2439 42 99.45512 40.2112 99.45512 38 c
+99.45512 12 l
+99.45512 9.7888 101.2439 8 103.4551 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 129.5803 21 Tm (Open log) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 191.9102 25 m 196.9102 25 l S
+n 196.9102 25 m 193.9102 28 l S
+n 196.9102 25 m 193.9102 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+202.9102 8 m
+286.3654 8 l
+288.5766 8 290.3654 9.7888 290.3654 12 c
+290.3654 38 l
+290.3654 40.2112 288.5766 42 286.3654 42 c
+202.9102 42 l
+200.699 42 198.9102 40.2112 198.9102 38 c
+198.9102 12 l
+198.9102 9.7888 200.699 8 202.9102 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 218.6314 21 Tm (Read first error) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 291.3654 25 m 296.3654 25 l S
+n 296.3654 25 m 293.3654 28 l S
+n 296.3654 25 m 293.3654 22 l S
+.933333 .956863 .972549 rg
+.835294 .878431 .909804 RG
+n
+302.3654 8 m
+385.8205 8 l
+388.0317 8 389.8205 9.7888 389.8205 12 c
+389.8205 38 l
+389.8205 40.2112 388.0317 42 385.8205 42 c
+302.3654 42 l
+300.1542 42 298.3654 40.2112 298.3654 38 c
+298.3654 12 l
+298.3654 9.7888 300.1542 8 302.3654 8 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 326.0857 21 Tm (Fix source) Tj T* ET
+.086275 .552941 .533333 RG
+1 w
+n 390.8205 25 m 395.8205 25 l S
+n 395.8205 25 m 392.8205 28 l S
+n 395.8205 25 m 392.8205 22 l S
+.294118 .443137 .541176 rg
+.086275 .552941 .533333 RG
+n
+401.8205 8 m
+485.2756 8 l
+487.4868 8 489.2756 9.7888 489.2756 12 c
+489.2756 38 l
+489.2756 40.2112 487.4868 42 485.2756 42 c
+401.8205 42 l
+399.6093 42 397.8205 40.2112 397.8205 38 c
+397.8205 12 l
+397.8205 9.7888 399.6093 8 401.8205 8 c
+h
+B*
+1 1 1 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 420.5404 21 Tm (Recheck PDF) Tj T* ET
+Q
+q
+1 0 0 1 53 659.7898 cm
+Q
+q
+1 0 0 1 53 460.0898 cm
+q
+.294118 .443137 .541176 rg
+n 0 199.7 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 152 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 104.4 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 56.8 501.2756 -28.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 185.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Message / symptom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 185.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Likely cause) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 185.4 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (First check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 166.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Undefined control sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 166.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Misspelled command or missing package) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 157 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Check the command spelling and whether the required) Tj T* (package is loaded.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 137.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Missing $ inserted) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 137.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Math symbol in normal text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 137.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Put math in \\\( ... \\\) or escape a text underscore as \\_.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 118.6 cm
+q
+BT 1 0 0 1 0 1.8 Tm 9.2 TL /F1 7.4 Tf .141176 .203922 .282353 rg (Misplaced alignment tab &) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 118.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (An unescaped ampersand in prose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 109.4 cm
+q
+BT 1 0 0 1 0 11 Tm 9.2 TL /F1 7.4 Tf .141176 .203922 .282353 rg (Write \\) Tj (& in text; keep raw & only as a table or alignment) Tj T* (separator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 90.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (File not found) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 90.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Image path or capitalization mismatch) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 90.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Check the project file tree and use the exact filename/path.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 71 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Citation undefined) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 71 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Key mismatch or bibliography setup issue) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 61.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Match the key exactly; inspect references.bib and the) Tj T* (template's bibliography commands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 42.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (?? in a reference) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Label mismatch or unfinished) Tj T* (cross-reference pass) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 33.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Check spelling and placement; recompile and inspect the) Tj T* (PDF again.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 14.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Overfull \\hbox) Tj T* ET
+Q
+Q
+q
+1 0 0 1 139 14.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (A line is too wide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 11 Tm /F1 7.4 Tf 9.2 TL (Rewrite or break a long phrase; check URLs and long) Tj T* (technical terms.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 199.7 m 501.2756 199.7 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 199.7 l S
+n 501.2756 0 m 501.2756 199.7 l S
+n 0 180.4 m 501.2756 180.4 l S
+n 0 152 m 501.2756 152 l S
+n 0 132.8 m 501.2756 132.8 l S
+n 0 104.4 m 501.2756 104.4 l S
+n 0 85.2 m 501.2756 85.2 l S
+n 0 56.8 m 501.2756 56.8 l S
+n 0 28.4 m 501.2756 28.4 l S
+n 133 0 m 133 199.7 l S
+n 288 0 m 288 199.7 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 453.0898 cm
+Q
+q
+1 0 0 1 53 432.5898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Safe AI debugging prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 369.0898 cm
+.937255 .960784 .972549 rg
+.835294 .878431 .909804 RG
+.6 w
+n
+5 0 m
+484.2756 0 l
+487.0396 0 489.2756 2.236 489.2756 5 c
+489.2756 55.5 l
+489.2756 58.264 487.0396 60.5 484.2756 60.5 c
+5 60.5 l
+2.236 60.5 0 58.264 0 55.5 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.141176 .203922 .282353 rg
+BT /F3 7.3 Tf 8.76 TL ET
+BT 1 0 0 1 9 44.2 Tm (Explain the first LaTeX error below in plain language. Inspect the) Tj T* ET
+BT 1 0 0 1 9 35.7 Tm (source around the reported line. Propose the smallest change that fixes) Tj T* ET
+BT 1 0 0 1 9 27.2 Tm (the cause. Do not rewrite unrelated content. Tell me what to recompile) Tj T* ET
+BT 1 0 0 1 9 18.7 Tm (and what to inspect in the PDF. Error log: [paste first error]) Tj T* ET
+BT 1 0 0 1 9 10.2 Tm (Nearby source: [paste 10-20 lines]) Tj T* ET
+Q
+q
+1 0 0 1 53 363.0898 cm
+Q
+q
+1 0 0 1 53 326.2898 cm
+q
+.933333 .956863 .972549 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (Warnings are not all fatal, but inspect any warning that affects layout, citations, labels, or missing files. A PDF preview alone) Tj T* (does not prove the build is clean. Use the log and verify the exported PDF. [3, 14]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.294118 .443137 .541176 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/Contents 49 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 50 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+49 0 obj
+<<
+/Length 8551
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 540.2692 21 Tm (14) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Command quick reference) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (Keep this page beside Overleaf while you work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 489.2898 cm
+q
+.294118 .443137 .541176 rg
+n 0 230.5 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 192 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 153.6 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 115.2 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 76.8 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 38.4 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 216.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Need to...) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 216.2 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 197 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Choose class / add feature) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 197 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\documentclass{article} | \\usepackage{graphicx}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 177.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Add a heading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 177.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\section{...} | \\subsection{...} | \\section*{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 158.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Format text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 158.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\textbf{...} | \\textit{...} | \\emph{...}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 139.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Make a list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 139.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\begin{itemize} \\item ... \\end{itemize}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Insert a figure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 120.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\includegraphics[width=0.8\\linewidth]{figures/name.png}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Add caption + internal link) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 101 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\caption{...} \\label{fig:name} | \\ref{fig:name}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Write math) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\\(...\\\) | \\begin{equation}...\\end{equation} | \\begin{align}...\\end{align}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Cite a source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\cite{key} | \\bibliographystyle{IEEEtran} | \\bibliography{references}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Add a hyperlink) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\href{https://...}{visible label}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Split a long project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (\\input{sections/introduction}) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Print reserved symbols) Tj T* ET
+Q
+Q
+q
+1 0 0 1 150 5 cm
+q
+BT 1 0 0 1 0 1.8 Tm 9.2 TL /F1 7.4 Tf .141176 .203922 .282353 rg (\\% \\_ \\) Tj (& \\$ \\# \\{ \\}) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 230.5 m 501.2756 230.5 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 230.5 l S
+n 501.2756 0 m 501.2756 230.5 l S
+n 0 211.2 m 501.2756 211.2 l S
+n 0 192 m 501.2756 192 l S
+n 0 172.8 m 501.2756 172.8 l S
+n 0 153.6 m 501.2756 153.6 l S
+n 0 134.4 m 501.2756 134.4 l S
+n 0 115.2 m 501.2756 115.2 l S
+n 0 96 m 501.2756 96 l S
+n 0 76.8 m 501.2756 76.8 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 144 0 m 144 230.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 481.2898 cm
+Q
+q
+1 0 0 1 53 460.7898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (Before you export) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 342.4898 cm
+q
+.294118 .443137 .541176 rg
+n 0 115.3 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 76.8 501.2756 -19.2 re f*
+.933333 .956863 .972549 rg
+n 0 38.4 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 101 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Research paper) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.6378 101 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Resume) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Question and gap are specific) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.6378 81.8 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Target role and relevant sections are clear) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Claims match the cited sources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.6378 62.6 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Every skill, date, and result is true) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Figures/tables/equations have labels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.6378 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Contact details and links work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] References and template are correct) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.6378 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Layout fits the requested page length) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] Compile log checked; PDF re-read) Tj T* ET
+Q
+Q
+q
+1 0 0 1 256.6378 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL ([ ] PDF re-read after final compile) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 115.3 m 501.2756 115.3 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 115.3 l S
+n 501.2756 0 m 501.2756 115.3 l S
+n 0 96 m 501.2756 96 l S
+n 0 76.8 m 501.2756 76.8 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 250.6378 0 m 250.6378 115.3 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 334.4898 cm
+Q
+q
+1 0 0 1 53 297.6898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (When using a venue template, its class files and author instructions take priority over generic examples in this guide. For a) Tj T* (resume, the job or institution's requested format takes priority.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/Annots [ 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R ]
+/Contents 66 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.2
+>>
+/gRLs1 <<
+/ca 1
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 67 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+52 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Learn\137LaTeX\137in\13730\137minutes)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 710.7898 197.512 721.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+53 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056overleaf\056com\057getting\055started\057recompiling\055your\055project\057the\055main\055document)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 696.2898 192.608 706.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056overleaf\056com\057getting\055started\057recompiling\055your\055project)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 681.7898 209.936 692.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+55 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056overleaf\056com\057collaborating\057sharing\055a\055project)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 667.2898 182.384 677.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+56 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056overleaf\056com\057managing\055projects\055and\055files\057downloading\055a\055project)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 652.7898 201.056 663.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+57 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056overleaf\056com\057writing\055and\055editing\057history\055and\055versioning)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 638.2898 201.048 648.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+58 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057conferences\056ieeeauthorcenter\056ieee\056org\057write\055your\055paper\057authoring\055tools\055and\055templates\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 623.7898 247.32 634.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+59 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Inserting\137Images)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 609.2898 160.6 619.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+60 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Cross\137referencing\137sections\0452C\137equations\137and\137floats)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 594.7898 272.208 605.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+61 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Tables)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 580.2898 129.92 590.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+62 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Aligning\137equations\137with\137amsmath)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 565.7898 222.848 576.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+63 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Positioning\137images\137and\137tables)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 551.2898 212.184 561.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+64 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056overleaf\056com\057learn\057latex\057Bibliography\137management\137with\137bibtex)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 536.7898 243.744 547.2898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+65 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056overleaf\056com\057troubleshooting\055and\055support\057fixing\055latex\055errors)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 53 522.2898 196.6 532.7898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+66 0 obj
+<<
+/Length 5963
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.835294 .878431 .909804 RG
+.5 w
+n 47 808.8898 m 548.2756 808.8898 l S
+.360784 .431373 .509804 rg
+BT /F2 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 816.8898 Tm (OVERLEAF & LATEX  |  STUDENT FIELD GUIDE) Tj T* ET
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 469.2628 816.8898 Tm (RESEARCH + RESUME) Tj T* ET
+n 47 33 m 548.2756 33 l S
+BT /F1 7.2 Tf 8.64 TL ET
+BT 1 0 0 1 47 21 Tm (Verify source facts, citations, and every resume claim.) Tj T* ET
+BT 1 0 0 1 540.2692 21 Tm (15) Tj T* ET
+Q
+q
+1 0 0 1 53 742.8898 cm
+q
+.086275 .552941 .533333 rg
+n 0 37 37 -37 re f*
+.933333 .956863 .972549 rg
+n 37 37 464.2756 -37 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 13.85 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45 7 cm
+q
+.294118 .443137 .541176 rg
+BT 1 0 0 1 0 4 Tm /F2 19 Tf 23 TL (Official references and next steps) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.45 w
+n 37 37 m 501.2756 37 l S
+n 37 0 m 501.2756 0 l S
+n 37 0 m 37 37 l S
+n 501.2756 0 m 501.2756 37 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 735.8898 cm
+Q
+q
+1 0 0 1 53 725.7898 cm
+q
+.360784 .431373 .509804 rg
+BT 1 0 0 1 0 2.1 Tm /F1 8 Tf 10.1 TL (The linked documentation backs the Overleaf workflow and command examples in this guide.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 719.7898 cm
+Q
+q
+1 0 0 1 53 709.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([1] Overleaf - Learn LaTeX in 30 minutes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 694.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([2] Overleaf Docs - The Main document) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 680.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([3] Overleaf Docs - Recompiling your project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 665.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([4] Overleaf Docs - Sharing a project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 651.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([5] Overleaf Docs - Downloading a project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 636.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([6] Overleaf Docs - History and versioning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 622.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([7] IEEE Author Center - Authoring tools and templates) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 607.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([8] Overleaf - Inserting Images) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 593.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([9] Overleaf - Cross referencing sections, equations and floats) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 578.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([10] Overleaf - Tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 564.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([11] Overleaf - Aligning equations with amsmath) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 549.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([12] Overleaf - Positioning images and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 535.2898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([13] Overleaf - Bibliography management with BibTeX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 520.7898 cm
+q
+.090196 .415686 .603922 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8 Tf 10.5 TL ([14] Overleaf Docs - Fixing LaTeX errors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 509.7898 cm
+Q
+q
+1 0 0 1 53 489.2898 cm
+q
+.086275 .552941 .533333 rg
+BT 1 0 0 1 0 3 Tm /F2 11.5 Tf 14.5 TL (A short practice sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 53 409.3898 cm
+q
+.294118 .443137 .541176 rg
+n 0 76.9 501.2756 -19.3 re f*
+.933333 .956863 .972549 rg
+n 0 38.4 501.2756 -19.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (1. Open) Tj T* ET
+Q
+Q
+q
+1 0 0 1 81 62.6 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.5 Tm /F2 7.8 Tf 9.3 TL (Create an Overleaf project from the official IEEE conference template or a resume template.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (2. Build) Tj T* ET
+Q
+Q
+q
+1 0 0 1 81 43.4 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Add one section, one citation, one figure or table, and one equation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (3. Check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 81 24.2 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Recompile, resolve errors, inspect the PDF, and verify each source and claim.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (4. Export) Tj T* ET
+Q
+Q
+q
+1 0 0 1 81 5 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.4 Tf 9.2 TL (Download the PDF and keep the source project so you can edit it later.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.835294 .878431 .909804 RG
+.4 w
+n 0 76.9 m 501.2756 76.9 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 76.9 l S
+n 501.2756 0 m 501.2756 76.9 l S
+n 0 57.6 m 501.2756 57.6 l S
+n 0 38.4 m 501.2756 38.4 l S
+n 0 19.2 m 501.2756 19.2 l S
+n 75 0 m 75 76.9 l S
+Q
+Q
+Q
+q
+1 0 0 1 53 401.3898 cm
+Q
+q
+1 0 0 1 53 364.5898 cm
+q
+.905882 .956863 .94902 rg
+n 0 36.8 501.2756 -36.8 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 10 7 cm
+q
+.141176 .203922 .282353 rg
+BT 1 0 0 1 0 14 Tm /F1 8.8 Tf 11.4 TL (Good technical writing is clear about the problem, method, evidence, and limits. Good LaTeX work compiles cleanly. Good) Tj T* (AI-assisted work is checked against the sources and your own experience.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.086275 .552941 .533333 RG
+.6 w
+n 0 36.8 m 501.2756 36.8 l S
+n 0 0 m 501.2756 0 l S
+n 0 0 m 0 36.8 l S
+n 501.2756 0 m 501.2756 36.8 l S
+3 w
+n 0 0 m 0 36.8 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0 1 -1 0 10 420.9449 cm
+/gRLs0 gs
+0.470588 0.517647 0.576471 rg
+/gRLs1 gs
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 -48.3665 0 Tm
+(RIDA ARSHAD \174 3BR23CD076) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+67 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 68
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000212 00000 n 
+0000000261 00000 n 
+0000000617 00000 n 
+0000006403 00000 n 
+0000006510 00000 n 
+0000006617 00000 n 
+0000006729 00000 n 
+0000006841 00000 n 
+0000006947 00000 n 
+0000007063 00000 n 
+0000007388 00000 n 
+0000016460 00000 n 
+0000016568 00000 n 
+0000016893 00000 n 
+0000025341 00000 n 
+0000025449 00000 n 
+0000025774 00000 n 
+0000032518 00000 n 
+0000032626 00000 n 
+0000032951 00000 n 
+0000044011 00000 n 
+0000044119 00000 n 
+0000044444 00000 n 
+0000050785 00000 n 
+0000050893 00000 n 
+0000051218 00000 n 
+0000057398 00000 n 
+0000057506 00000 n 
+0000057831 00000 n 
+0000071135 00000 n 
+0000071243 00000 n 
+0000071568 00000 n 
+0000079816 00000 n 
+0000079924 00000 n 
+0000080249 00000 n 
+0000089081 00000 n 
+0000089189 00000 n 
+0000089514 00000 n 
+0000096161 00000 n 
+0000096269 00000 n 
+0000096594 00000 n 
+0000103281 00000 n 
+0000103389 00000 n 
+0000103714 00000 n 
+0000113431 00000 n 
+0000113539 00000 n 
+0000113864 00000 n 
+0000122468 00000 n 
+0000122576 00000 n 
+0000122999 00000 n 
+0000123243 00000 n 
+0000123512 00000 n 
+0000123754 00000 n 
+0000123984 00000 n 
+0000124241 00000 n 
+0000124488 00000 n 
+0000124768 00000 n 
+0000124992 00000 n 
+0000125267 00000 n 
+0000125479 00000 n 
+0000125726 00000 n 
+0000125971 00000 n 
+0000126222 00000 n 
+0000126472 00000 n 
+0000132488 00000 n 
+trailer
+<<
+/Size 68
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+132596
+%%EOF
